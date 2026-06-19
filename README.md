@@ -32,9 +32,10 @@ A production-grade **event-driven trading platform** (private): async Kafka work
 
 ### 📌 Selected work
 
-- **[quant-strategies](https://github.com/MarcosACH/quant-strategies)** — Framework for developing and backtesting quantitative strategies (vectorbt + Optuna optimization).
-- **[potrerillos-wind-forecast](https://github.com/MarcosACH/potrerillos-wind-forecast)** — Hourly wind forecasting with SARIMA/LSTM; walk-forward eval, **28% RMSE improvement** over benchmark.
 - **[buscasam](https://github.com/LucasACH/buscasam)** — Academic search system for the UNSAM community.
+- **[polyglot-dwh](https://github.com/MarcosACH/polyglot-dwh)** — Polyglot analytical data warehouse for an academic search platform (UNSAM): PostgreSQL/Supabase OLTP (3NF) + Kimball star-schema DWH, incremental Python ETL on GitHub Actions, Redis Cloud (RediSearch, JWT blacklist, rate limiting), pgvector semantic search, and Power BI dashboards.
+- **[potrerillos-wind-forecast](https://github.com/MarcosACH/potrerillos-wind-forecast)** — Hourly wind forecasting with SARIMA/LSTM; walk-forward eval, **28% RMSE improvement** over benchmark.
+- **[quant-strategies](https://github.com/MarcosACH/quant-strategies)** — Framework for developing and backtesting quantitative strategies (vectorbt + Optuna optimization).
 
 ---
 
