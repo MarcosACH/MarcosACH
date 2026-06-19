@@ -34,7 +34,7 @@ A production-grade **event-driven trading platform** (private): async Kafka work
 
 - **[quant-strategies](https://github.com/MarcosACH/quant-strategies)** — Framework for developing and backtesting quantitative strategies (vectorbt + Optuna optimization).
 - **[potrerillos-wind-forecast](https://github.com/MarcosACH/potrerillos-wind-forecast)** — Hourly wind forecasting with SARIMA/LSTM; walk-forward eval, **28% RMSE improvement** over benchmark.
-- **[buscasam](https://github.com/MarcosACH/buscasam)** — Academic search system for the UNSAM community.
+- **[buscasam](https://github.com/LucasACH/buscasam)** — Academic search system for the UNSAM community.
 
 ---
 
